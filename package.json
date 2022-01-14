@@ -1,4 +1,7 @@
 {
+  "name": "nodejs-study",
+  "version": "0.1.0",
+  "private":"true",
   "husky" : {
     "hooks" : {
       "pre-commit" : "echo 'teste'"
